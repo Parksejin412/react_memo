@@ -17,15 +17,15 @@
    
   ![image](https://github.com/Parksejin412/react_memo/assets/129017065/a188984d-2afa-4fe3-8692-d712b62a706d)
 
-->함수만들기 
+  ->함수만들기 
 
   ![image](https://github.com/Parksejin412/react_memo/assets/129017065/d0efb3b6-c73a-4a54-adaf-6eaa6bd442aa)
 
-->화살표함수만들기
+  ->화살표함수만들기
 
-![image](https://github.com/Parksejin412/react_memo/assets/129017065/5461713e-b4f8-4770-a4d3-230e1f323c4f)
+  ![image](https://github.com/Parksejin412/react_memo/assets/129017065/5461713e-b4f8-4770-a4d3-230e1f323c4f)
 
-->함수를 밖으로 빼기
+  ->함수를 밖으로 빼기
 
-![image](https://github.com/Parksejin412/react_memo/assets/129017065/7b56d612-0a86-473c-a890-6430628e107e)
+  ![image](https://github.com/Parksejin412/react_memo/assets/129017065/7b56d612-0a86-473c-a890-6430628e107e)
 
