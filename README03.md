@@ -7,5 +7,8 @@
 
 ![image](https://github.com/Parksejin412/react_memo/assets/129017065/ad73829f-e4fd-4e0a-8f1a-3dd7dfbab8ae)
 
+![image](https://github.com/Parksejin412/react_memo/assets/129017065/3f45f020-60a9-4e46-ae4b-bd128d770fa5)
+
+
 
 ##
