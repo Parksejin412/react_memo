@@ -9,6 +9,18 @@
 
 ![image](https://github.com/Parksejin412/react_memo/assets/129017065/3f45f020-60a9-4e46-ae4b-bd128d770fa5)
 
+------------------------------------------------------------------------------------------------------------
 
+## useEffect
+![image](https://github.com/Parksejin412/react_memo/assets/129017065/a2f1c8ea-11d0-47da-ae5c-fce2434dd963)
 
-##
+------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/kgy424/react_basic/assets/129706828/8e50b33f-af2c-4318-9633-a534584a11f0)
+
+![image](https://github.com/kgy424/react_basic/assets/129706828/1add09c2-2e5a-4ae5-8d2a-450a0cbcd6b7)
+
+![image](https://github.com/kgy424/react_basic/assets/129706828/84d7125a-13e6-40bb-86f7-87002e75424b)
+
+------------------------------------------------------------------------------------------------------------
+![image](https://github.com/Parksejin412/react_memo/assets/129017065/8ef10b1d-0fae-47c5-b4e6-0900dd7355ea)
